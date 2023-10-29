@@ -2,6 +2,7 @@
 ### Section 7
 #### 코딩 연습 2: Hello World 프린트
 '''java
+
 public class Exercise {
     public static void main(String[] args) {
         //print "Hello World"
@@ -12,4 +13,5 @@ public class Exercise {
 				// 버퍼에 엔터는 입력안됨 개행문자 X
     }
 }
+
 '''
