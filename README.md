@@ -1,7 +1,7 @@
 # JavaStudy
 ### Section 7
 #### 코딩 연습 2: Hello World 프린트
-- 코딩 연습 3: 시간 변환기
+##### - 코딩 연습 3: 시간 변환기
     - 박시현
         
         ```java
