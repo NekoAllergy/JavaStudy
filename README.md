@@ -1,6 +1,7 @@
 # JavaStudy
 ### Section 7
 #### 코딩 연습 2: Hello World 프린트
+> 박시현
 ```java
 public class Exercise {
     public static void main(String[] args) {
